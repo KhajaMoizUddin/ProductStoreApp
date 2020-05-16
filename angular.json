@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProductApp"
+    }
+  },
+  "defaultProject": "ProductApp",
+  "cli": {
+    "analytics": false
+  }
 }
